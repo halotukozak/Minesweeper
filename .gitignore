@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Topics/BigInteger/LCM/out/
+/Topics/BigInteger/LCM/out/production/classes/
+/Topics/BigInteger/Percentage/out/
+/Topics/BigInteger/Percentage/out/production/classes/
+/Topics/Extension functions/Last digit/out/
+/Topics/Extension functions/Last digit/out/production/classes/
+/Topics/Properties accessors/City population/out/
+/Topics/Properties accessors/City population/out/production/classes/
+/Topics/Recursion/Programming a recursive function  calculate the sum of all the digit/out/
+/Topics/Recursion/Programming a recursive function  calculate the sum of all the digit/out/production/classes/
+/Topics/Recursion/Programming a recursive function  calculating the sum of numbers from 1 to n/out/
+/Topics/Recursion/Programming a recursive function  calculating the sum of numbers from 1 to n/out/production/classes/
+/Topics/Recursion/Programming a recursive function  determining if the given number is prime/out/
+/Topics/Recursion/Programming a recursive function  determining if the given number is prime/out/production/classes/
